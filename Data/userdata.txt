@@ -1,0 +1,13 @@
+Date and Time: 03:00 PM, 17-05-2026
+========================================================
+**********Book Issued**********
+User Name: Shodesh
+Password: 12345
+Book Title: Java For Everyone
+Author Name: Nafiz
+ISBN Number: 3554
+Book Category: Text Book
+Book Condition: Good Condition 
+Book Review: 
+--------------------------------------------------------------
+
